@@ -8,4 +8,4 @@ This repository is created to practice basic Git commands:
 - git push
 
 File included:
-- hello.cpp
+- first.cpp-to practice git commands
